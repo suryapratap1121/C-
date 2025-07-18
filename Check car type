@@ -1,0 +1,23 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+float a;
+cout<<"Enter the length of the car in meters ";
+cin>> a;
+if (a>3.4,a<4)
+    cout<<"Type of the car is HATCHABCKS";
+else if  (a>4,a<4.2)
+    cout<<"Type of the car is SUBCOMPACT SEDANS/COMPACT SUV'S";
+else if    (a>4.2,a<4.5)
+    cout<<"Type of the car is SEDANS";
+else if (a>4.5,a<4.7)
+    cout<<"Type of the car is PREMIUM SUV's";
+else if (a>4.7,a<5)
+    cout<<"Type of car is LUXURY/EXECUTIVE VEHICLE";
+else if (a>5.0) 
+
+   cout<<"TThe type of car is LIMOUSINE/LONG BASE VEHICLE";
+   else
+   cout<<"The lenth is invalid for car";
+}
