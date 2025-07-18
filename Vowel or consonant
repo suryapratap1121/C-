@@ -1,0 +1,12 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+char x;
+cout<<"enter a letter ";
+cin>> x;
+if (x=='a'||x=='e'||x=='i'||x=='o'||x=='u'||x=='A'||x=='E'||x=='I'||x=='O'||x=='U')
+    cout<<"Letter is a vowel";
+else
+    cout<<"letter is a conconant";
+}
