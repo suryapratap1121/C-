@@ -39,13 +39,9 @@ This program:
 
 This is a simple C++ console application that takes **three integer inputs** from the user and determines the **largest number** among them using conditional statements.
 
----
-
 ## 📚 Theory
 
 In basic mathematics and programming, comparing numbers is a foundational concept. This program implements a series of **nested `if-else` conditions** to compare three numbers (`a`, `b`, and `c`) and identify the largest among them.
-
----
 
 ## 🧾 Overview
 
@@ -83,4 +79,34 @@ The program:
 ### Steps
 
 ```bash
+
+
+
+
+
+# 🔤 Vowel or Consonant Checker (C++)
+
+This is a simple C++ program that checks if the letter you enter is a **vowel** or a **consonant**.
+
+##  What it does
+
+- You enter a letter (like `a`, `b`, `z`, etc.)
+- The program checks if it’s a vowel (`a`, `e`, `i`, `o`, `u`, upper or lowercase)
+- It tells you if the letter is a **vowel** or a **consonant**
+##  What I used
+
+- `char` data type for taking a single character
+- `cin` and `cout` for input/output
+- `if` and `else` statements for checking the condition
+- `||` (OR operator) to match any of the vowel letters
+
+---
+##  Example
+
+Enter a letter: A
+Letter is a vowel
+
+Enter a letter: d
+Letter is a consonant
+
 
