@@ -28,3 +28,59 @@ This program:
 - **Logical Operators**: `&&` to combine range checks.
 - **Float Data Type**: for accepting decimal input (e.g., 4.3 meters).
 - **Error Handling**: prints a messag
+
+
+
+
+
+
+
+ # 🔢 Largest of Three Numbers - C++ Program
+
+This is a simple C++ console application that takes **three integer inputs** from the user and determines the **largest number** among them using conditional statements.
+
+---
+
+## 📚 Theory
+
+In basic mathematics and programming, comparing numbers is a foundational concept. This program implements a series of **nested `if-else` conditions** to compare three numbers (`a`, `b`, and `c`) and identify the largest among them.
+
+---
+
+## 🧾 Overview
+
+The program:
+
+- Prompts the user to enter three integers.
+- Compares the values using nested `if-else` logic.
+- Outputs which number is the largest.
+
+---
+
+## 🧠 Concepts Used
+
+- **C++ Input/Output** using `cin` and `cout`
+- **Integer Data Type** for handling whole numbers
+- **Conditional Statements** (`if`, `else if`, `else`)
+- **Nested Conditionals** to compare three values
+
+---
+
+## 🎯 Purpose
+
+- To practice and demonstrate **basic comparison and decision-making** in C++.
+- To reinforce understanding of **nested `if` statements**.
+- To help beginners understand logical control flow through a real-world example.
+
+---
+
+## 🖥️ How to Run
+
+### Requirements
+
+- A C++ compiler (e.g., `g++`)
+
+### Steps
+
+```bash
+
