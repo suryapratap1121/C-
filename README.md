@@ -36,7 +36,7 @@ This is a simple C++ console application that takes **three integer inputs** fro
 
 In basic mathematics and programming, comparing numbers is a foundational concept. This program implements a series of **nested `if-else` conditions** to compare three numbers (`a`, `b`, and `c`) and identify the largest among them.
 
-## 🧾 Overview
+##  Overview
 
 The program:
 
@@ -54,7 +54,7 @@ The program:
 - To practice and demonstrate **basic comparison and decision-making** in C++.
 - To reinforce understanding of **nested `if` statements**.
 - To help beginners understand logical control flow through a real-world example.
-## 🖥 How to Run
+##  How to Run
 
 ### Requirements
 
