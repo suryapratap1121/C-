@@ -110,3 +110,21 @@ Enter a letter: d
 Letter is a consonant
 
 
+
+
+
+
+#  Day of the Week - C++ Program
+
+This is a simple C++ program that lets the user enter a number from **1 to 7**, and it displays the corresponding **day of the week** using a `switch` statement.
+##  What the program does
+
+- Shows a menu of numbers (1 to 7), each for a day of the week.
+- The user enters a number (like `3`).
+- The program prints the correct day (like `Wednesday`).
+- If the number is not between 1 and 7, it shows a message saying the input is invalid.
+##  How to Run
+
+
+
+
